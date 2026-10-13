@@ -16,7 +16,7 @@
 ## Схемы
 *   **[Модель AS IS](./diagrams/trading_as_is.svg)** — схема текущих бизнес-процессов компании.
 
-![Схема AS IS](diagrams/trading_as_is.png)
+![Схема_AS_IS](diagrams/trading_as_is.png)
 
 ## Технологии
 *   **Нотация:** BPMN 2.0
