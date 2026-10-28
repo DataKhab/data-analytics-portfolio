@@ -36,7 +36,7 @@ BI-инструменты: Power BI, Looker Studio (Google Data Studio)
 Контроль версий: Git, GitHub
 
 Структура проекта
-Nootebooks/ — содержит основной Jupyter Notebook (restoran.ipynb) с кодом исследования.
+Nootebooks/ — содержит основной Jupyter Notebook (restaurants-analysis.ipynb) с кодом исследования.
 
 data/ — папка с исходным датасетом moscow_places.csv.
 
